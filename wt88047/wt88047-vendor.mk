@@ -37,6 +37,10 @@ PRODUCT_COPY_FILES += \
     vendor/wingtech/wt88047/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/wingtech/wt88047/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/wingtech/wt88047/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
+    vendor/wingtech/wt88047/proprietary/lib/libOmxCore.so:system/lib/libOmxCore.so \
+    vendor/wingtech/wt88047/proprietary/lib/libOmxVdec.so:system/lib/libOmxVdec.so \
+    vendor/wingtech/wt88047/proprietary/lib/libOmxVenc.so:system/lib/libOmxVenc.so \
+    vendor/wingtech/wt88047/proprietary/vendor/lib/libHevcSwDecoder.so:system/vendor/lib/libHevcSwDecoder.so \
     vendor/wingtech/wt88047/proprietary/lib/libwcnss_qmi.so:system/lib/libwcnss_qmi.so \
     vendor/wingtech/wt88047/proprietary/vendor/bin/adsprpcd:system/vendor/bin/adsprpcd \
     vendor/wingtech/wt88047/proprietary/vendor/bin/btnvtool:system/vendor/bin/btnvtool \
